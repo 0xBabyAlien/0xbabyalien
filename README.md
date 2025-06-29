@@ -30,9 +30,7 @@
 <a href="https://kampungcyberx.blogspot.com/">
   <img src="https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=Blogger&logoColor=white" alt="Blog">
 </a>
-<a href"https://0xbabyalien.tumblr.com/">
-<img src="https://img.shields.io/badge/Tumblr-%23000000.svg?style=for-the-badge&logo=Tumblr&logoColor=white" alt="Tumblr">
-</a>
+
 </br>
 </br>
 <img src="x/474e37334d4b4261775a5941414141692f627573792d637574652e676955.gif" width="90" height="80" align="right">
