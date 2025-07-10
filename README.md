@@ -65,6 +65,9 @@
 <a href="https://trakteer.id/0x628">
   <img src="https://img.shields.io/badge/❣ Trakteer-%23000000.svg?style=for-the-badge&logo=Trakteer&logoColor=white" alt="Trakteer">
 </a>
+<a href="https://0xbabyalien.vercel.app/">
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="Vercel">
+</a>
 </center></br>
 </br>
 
