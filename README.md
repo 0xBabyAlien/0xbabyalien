@@ -50,7 +50,7 @@
 <a href="https://warpcast.com/0xbabyalien">
   <img src="https://img.shields.io/badge/🆆 Warpcast-%23000000.svg?style=for-the-badge&logo=Warpcast&logoColor=white" alt="Warpcast">
 </a>
-<a href="https://lensfrens.xyz/babyalien">
+<a href="https://hey.xyz/u/babyalien">
   <img src="https://img.shields.io/badge/Lens-%23000000.svg?style=for-the-badge&logo=Lens&logoColor=white" alt="Lens">
 </a>
 <a href="https://dune.com/0xbabyalien">
