@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/Lens-%23000000.svg?style=for-the-badge&logo=Lens&logoColor=white" alt="Lens">
 </a>
 <a href="https://app.binance.com/uni-qr/cpro/0xbabyalien?l=en&r=415452117&uc=app_square_share_link&us=copylink ">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Binance_Logo.svg/768px-Binance_Logo.svg.pngstyle=for-the-badge&logo=BinanceSquare&logoColor=white" width="15" height="15" alt="BinanceSquare">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Binance_Logo.svg/768px-Binance_Logo.svg.png?style=for-the-badge&logo=BinanceSquare&logoColor=white" width="15" height="15" alt="BinanceSquare">
 </a>
 <a href="https://dune.com/0xbabyalien">
   <img src="https://img.shields.io/badge/⊘ Dune-%23000000.svg?style=for-the-badge&logo=Dune&logoColor=white" alt="Dune">
