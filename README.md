@@ -1,4 +1,8 @@
-
+<head>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/death.css">
+</head>
+<body>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World+!!+😉;My+Nickname+0xBabyAlien+😜)](https://git.io/typing-svg)
 <hr class="cyberpunk glitched" /></br>
 
@@ -91,4 +95,4 @@
 <br/>
 <hr class="cyberpunk glitched" />
 
-
+</body>
