@@ -53,6 +53,9 @@
 <a href="https://hey.xyz/u/babyalien">
   <img src="https://img.shields.io/badge/Lens-%23000000.svg?style=for-the-badge&logo=Lens&logoColor=white" alt="Lens">
 </a>
+<a href="https://app.binance.com/uni-qr/cpro/0xbabyalien?l=en&r=415452117&uc=app_square_share_link&us=copylink ">
+  <img src="https://img.shields.io/badge/BinanceSquare-%23000000.svg?style=for-the-badge&logo=BinanceSquare&logoColor=white" alt="Binance Square">
+</a>
 <a href="https://dune.com/0xbabyalien">
   <img src="https://img.shields.io/badge/⊘ Dune-%23000000.svg?style=for-the-badge&logo=Dune&logoColor=white" alt="Dune">
 </a>
