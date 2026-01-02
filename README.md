@@ -85,11 +85,6 @@
   <img alt="github-snake" src="x/github-user-contribution.svg" />
 </picture>
 
-![0xbabyalien's Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xbabyalien&theme=tokyonight&hide_border=true)
-
-[![](https://github-readme-stats.vercel.app/api?username=0xbabyalien&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/0xbabyalien)
-
-![0xbabyalien's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xbabyalien&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
 <br/>
