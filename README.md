@@ -74,7 +74,7 @@
 </a>
 </a>
 <a href="https://debank.com/profile/0x228ad3b30a809e7d410fdc9845aeca5c21bbec0d/">
-  <img src="https://img.shields.io/badge/Debank-%23000000.svg?style=for-the-badge&logo=Debank&logoColor=white" alt="Debank">
+  <img src="https://img.shields.io/badge/¤ Debank-%23000000.svg?style=for-the-badge&logo=Debank&logoColor=white" alt="Debank">
 </a>
 <a href="https://0xbabyalien.vercel.app/">
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="Vercel">
