@@ -77,6 +77,17 @@
 <a href="https://0xbabyalien.vercel.app/">
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="Vercel">
 </a>
+</br>
+</br>
+
+
+<a href="https://sociabuzz.com/0xbabyalien/tribe">
+  <img src="https://img.shields.io/badge/​🅢 Socialbuzz-%23000000.svg?style=for-the-badge&logo=SocialBuzz&logoColor=white" alt="SocialBuzz">
+</a>
+<a href="https://trakteer.id/0x628">
+  <img src="https://img.shields.io/badge/❣ Trakteer-%23000000.svg?style=for-the-badge&logo=Trakteer&logoColor=white" alt="Trakteer">
+</a>
+
 </center></br>
 </br>
 
@@ -92,9 +103,3 @@
 <br/>
 <hr class="cyberpunk glitched" />
 </br>
-<a href="https://sociabuzz.com/0xbabyalien/tribe">
-  <img src="https://img.shields.io/badge/​🅢 Socialbuzz-%23000000.svg?style=for-the-badge&logo=SocialBuzz&logoColor=white" alt="SocialBuzz">
-</a>
-<a href="https://trakteer.id/0x628">
-  <img src="https://img.shields.io/badge/❣ Trakteer-%23000000.svg?style=for-the-badge&logo=Trakteer&logoColor=white" alt="Trakteer">
-</a>
