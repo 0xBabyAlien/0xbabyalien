@@ -37,6 +37,9 @@
 <a href="#">
   <img src="https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=Blogger&logoColor=white" alt="Blog">
 </a>
+<a href="https://sociabuzz.com/0xbabyalien/tribe">
+  <img src="https://img.shields.io/badge/Socialbuzz-%23000000.svg?style=for-the-badge&logo=SocialBuzz&logoColor=white" alt="SocialBuzz">
+</a>
 
 </br>
 </br>
