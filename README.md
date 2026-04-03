@@ -85,7 +85,7 @@
   <img src="https://img.shields.io/badge/​☕︎ SayEcho-%23000000.svg?style=for-the-badge&logo=coffe&logoColor=white" alt="SayEcho">
 </a>
 <a href="https://base.app/pay-request?EIP681Link=ethereum%3A0x833589fcd6edb6e08f4c7c32d4f71b54bda02913%408453%2Ftransfer%3Faddress%3D0xad8566ec919e8dbfb184af5d7b413e0d13fcdc93%26uint256%3D5e6">
-  <img src="https://img.shields.io/badge/​Baseapp-%23000000.svg?style=for-the-badge&logo=baseapp&logoColor=white" alt="BaseApp">
+  <img src="https://img.shields.io/badge/​Coinbase-%23000000.svg?style=for-the-badge&logo=Coinbase&logoColor=white" alt="BaseApp">
 </a>
 <a href="https://sociabuzz.com/0xbabyalien/tribe">
   <img src="https://img.shields.io/badge/​🅢 Socialbuzz-%23000000.svg?style=for-the-badge&logo=SocialBuzz&logoColor=white" alt="SocialBuzz">
