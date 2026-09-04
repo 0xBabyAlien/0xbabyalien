@@ -109,5 +109,7 @@
 <hr class="cyberpunk glitched" />
 </br>
 <img src="x/1500x500px.jpg">
-<img src="https://komarev.com/ghpvc/?username=0xbabyalien&label=VISITORS&color=00ffff&style=for-the-badge" alt="VISITORS">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0xbabyalien&label=VISITORS&color=00ffff&style=for-the-badge" alt="VISITORS">
+</p>
 </center>
