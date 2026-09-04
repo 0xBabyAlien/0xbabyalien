@@ -104,7 +104,7 @@
   <img alt="github-snake" src="x/github-user-contribution.svg" />
 </picture>
 
-
+<img src="x/1500x500.jpg">
 
 <br/>
 <hr class="cyberpunk glitched" />
