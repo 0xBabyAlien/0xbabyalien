@@ -108,4 +108,4 @@
 <br/>
 <hr class="cyberpunk glitched" />
 </br>
-<img src="x/1500x500.jpeg">
+<img src="x/1500x500px.jpg">
