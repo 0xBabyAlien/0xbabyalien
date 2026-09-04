@@ -110,6 +110,6 @@
 </br>
 <img src="x/1500x500px.jpg">
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xbabyalien&label=VISITORS&color=00ffff&style=for-the-badge" alt="VISITORS">
+  <img src="https://komarev.com/ghpvc/?username=0xbabyalien&label=VISITORS&color=A67C00&style=for-the-badge" alt="VISITORS">
 </p>
 </center>
