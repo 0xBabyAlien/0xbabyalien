@@ -94,7 +94,7 @@
   <img src="https://img.shields.io/badge/❣ Trakteer-%23000000.svg?style=for-the-badge&logo=Trakteer&logoColor=white" alt="Trakteer">
 </a>
 
-</center></br>
+</br>
 </br>
 
 <h2>📊 Stats</h2> <br/>
@@ -109,3 +109,5 @@
 <hr class="cyberpunk glitched" />
 </br>
 <img src="x/1500x500px.jpg">
+![VISITORS](https://komarev.com/ghpvc/?username=0xbabyalien&label=VISITORS&color=00ffff&style=for-the-badge)
+</center>
