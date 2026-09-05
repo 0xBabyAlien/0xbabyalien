@@ -80,6 +80,7 @@
 
 </br>
 </br>
+<h2>☕ Coffee</h2>
 </br>
 <a href="https://www.sayecho.xyz/tip/cmcxeqr7x00axjp04nww1i6hb">
   <img src="https://img.shields.io/badge/​☕︎ SayEcho-%23000000.svg?style=for-the-badge&logo=coffe&logoColor=white" alt="SayEcho">
@@ -99,10 +100,14 @@
 <a href="https://trakteer.id/0x628">
   <img src="https://img.shields.io/badge/❣ Trakteer-%23000000.svg?style=for-the-badge&logo=Trakteer&logoColor=white" alt="Trakteer">
 </a>
+<a href="https://link.trustwallet.com/send?coin=20000714&address=0x960fbe9b5c9e9bb514f0eb55ad63c4fd459bf07d&amount=0.003">
+    <img src="https://img.shields.io/badge/Trustwallet-%23000000.svg?style=for-the-badge&logo=BNB&logoColor=white" alt="Trustwallet">
+</a>
 <a href="https://www.paypal.me/0xbabyalien">
     <img src="https://img.shields.io/badge/Paypal-%23000000.svg?style=for-the-badge&logo=Paypal&logoColor=white" alt="Paypal">
 </a>
 </br>
+<img src="x/1500x500px.jpg">
 </br>
 
 <h2>📊 Stats</h2> <br/>
@@ -111,15 +116,15 @@
   <source media="(prefers-color-scheme: light)" srcset="x/github-user-contribution.svg" />
   <img alt="github-snake" src="x/github-user-contribution.svg" />
 </picture>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0xbabyalien&label=VIEWS&color=FF00FF&style=flat" alt="VIWES">
+</p>
 <br/>
 
 <hr class="cyberpunk glitched" />
 </br>
-<img src="x/1500x500px.jpg">
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xbabyalien&label=VIEWS&color=FF00FF&style=flat" alt="VIWES">
-</p>
+
+
 </center>
 
 
