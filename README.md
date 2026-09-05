@@ -113,9 +113,8 @@
   <source media="(prefers-color-scheme: light)" srcset="x/github-user-contribution.svg" />
   <img alt="github-snake" src="x/github-user-contribution.svg" />
 </picture>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xbabyalien&label=VIEWS&color=FF00FF&style=flat" alt="VIWES">
-</p>
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/0xbabyalien/0xBabyAlien?style=for-the-badge&logo=github&logoColor=%230ea11d&labelColor=grey&color=magenta">
+
 <br/>
 <img src="x/1500x500.jpeg">
 <hr class="cyberpunk glitched" />
