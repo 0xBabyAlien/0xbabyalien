@@ -114,7 +114,6 @@
   <img alt="github-snake" src="x/github-user-contribution.svg" />
 </picture>
 
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/0xbabyalien/0xBabyAlien?style=for-the-badge&logo=github&logoColor=%230ea11d&labelColor=grey&color=magenta&link=https%3A%2F%2Fgithub.com%2F0xbabyalien">
 
 <br/>
 <img src="x/1500x500.jpeg">
