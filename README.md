@@ -93,7 +93,9 @@
 <a href="https://trakteer.id/0x628">
   <img src="https://img.shields.io/badge/❣ Trakteer-%23000000.svg?style=for-the-badge&logo=Trakteer&logoColor=white" alt="Trakteer">
 </a>
-
+<a href="https://www.paypal.me/0xbabyalien">
+    <img src="https://img.shields.io/badge/Paypal-%23000000.svg?style=for-the-badge&logo=Trakteer&logoColor=white" alt="Paypal">
+</a>
 </br>
 </br>
 
@@ -104,8 +106,8 @@
   <img alt="github-snake" src="x/github-user-contribution.svg" />
 </picture>
 
-
 <br/>
+
 <hr class="cyberpunk glitched" />
 </br>
 <img src="x/1500x500px.jpg">
@@ -113,3 +115,11 @@
   <img src="https://komarev.com/ghpvc/?username=0xbabyalien&label=VIEWS&color=FF00FF&style=flat" alt="VIWES">
 </p>
 </center>
+
+
+
+
+
+
+
+
