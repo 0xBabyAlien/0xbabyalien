@@ -106,7 +106,7 @@
 <a href="https://www.paypal.me/0xbabyalien">
     <img src="https://img.shields.io/badge/Paypal-%23000000.svg?style=for-the-badge&logo=Paypal&logoColor=white" alt="Paypal">
 </a>
-</br>
+</br></br>
 <img src="x/1500x500px.jpg">
 </br>
 
@@ -120,7 +120,7 @@
   <img src="https://komarev.com/ghpvc/?username=0xbabyalien&label=VIEWS&color=FF00FF&style=flat" alt="VIWES">
 </p>
 <br/>
-
+<img src="x/1500x500.jpeg">
 <hr class="cyberpunk glitched" />
 </br>
 
