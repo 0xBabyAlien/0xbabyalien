@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter">
 </a>
 <a href= "https://www.instagram.com/0xbabyalien">
-    <img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=Instagram&logoColor=magenta">
 </a>
 <a href= "https://bsky.app/profile/0xbabyalien.bsky.social">
     <img src="https://img.shields.io/badge/Bsky-%23000000.svg?style=for-the-badge&logo=Bluesky&logoColor=blue">
@@ -32,10 +32,10 @@
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok">
 </a>
 <a href="https://www.reddit.com/user/nftscan">
-  <img src="https://img.shields.io/badge/Reddit-%23000000.svg?style=for-the-badge&logo=Reddit&logoColor=orange" alt="Reddit">
+  <img src="https://img.shields.io/badge/Reddit-%23000000.svg?style=for-the-badge&logo=Reddit&logoColor=mediumorange" alt="Reddit">
 </a>
 <a href="https://0xbabyalien.tumblr.com/">
-  <img src="https://img.shields.io/badge/Tumblr-%23000000.svg?style=for-the-badge&logo=Tumblr&logoColor=navy" alt="Tumblr">
+  <img src="https://img.shields.io/badge/Tumblr-%23000000.svg?style=for-the-badge&logo=Tumblr&logoColor=mediumblue" alt="Tumblr">
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=Blogger&logoColor=orange" alt="Blog">
@@ -49,13 +49,13 @@
   <img src="https://img.shields.io/badge/⎙ WEB3-%23000000.svg?style=for-the-badge&logo=WEB3&logoColor=white" alt="WEBΞ">
 </a>
 <a href="https://link3.to/0xbabyalien">
-  <img src="https://img.shields.io/badge/❮ Link3-%23000000.svg?style=for-the-badge&logo=Link3&logoColor=white" alt="Link3">
+  <img src="https://img.shields.io/badge/Link3-%23000000.svg?style=for-the-badge&logo=thurgauerkantonalbank&logoColor=white" alt="Link3">
 </a>
 <a href="https://opensea.io/0x228a">
   <img src="https://img.shields.io/badge/Opensea-%23000000.svg?style=for-the-badge&logo=Opensea&logoColor=blue" alt="Opensea">
 </a>
 <a href="https://warpcast.com/0xbabyalien">
-  <img src="https://img.shields.io/badge/🆆 Warpcast-%23000000.svg?style=for-the-badge&logo=Warpcast&logoColor=white" alt="Warpcast">
+  <img src="https://img.shields.io/badge/Farcaster-%23000000.svg?style=for-the-badge&logo=farcaster&logoColor=mediumpurple" alt="Farcast">
 </a>
 <a href="https://hey.xyz/u/babyalien">
   <img src="https://img.shields.io/badge/Lens-%23000000.svg?style=for-the-badge&logo=Lens&logoColor=green" alt="Lens">
@@ -65,16 +65,16 @@
 </a>
 </a>
 <a href="https://dune.com/0xbabyalien">
-  <img src="https://img.shields.io/badge/⊘ Dune-%23000000.svg?style=for-the-badge&logo=Dune&logoColor=orange" alt="Dune">
+  <img src="https://img.shields.io/badge/Dune-%23000000.svg?style=for-the-badge&logo=dinersclub&logoColor=orange" alt="Dune">
 </a>
 <a href="https://coinmarketcap.com/community/profile/0xBabyAlien/">
   <img src="https://img.shields.io/badge/CoinMarketCap-%23000000.svg?style=for-the-badge&logo=CoinMarketCap&logoColor=blue" alt="CoinMarketCap">
 </a>
 <a href="https://mirror.xyz/0x228aD3b30a809e7d410fdC9845aeCA5c21bbeC0d">
-  <img src="https://img.shields.io/badge/⋂ Mirror-%23000000.svg?style=for-the-badge&logo=Mirror&logoColor=blue" alt="Mirror">
+  <img src="https://img.shields.io/badge/Mirror-%23000000.svg?style=for-the-badge&logo=namebase&logoColor=blue" alt="Mirror">
 </a>
 <a href="https://debank.com/profile/0x228ad3b30a809e7d410fdc9845aeca5c21bbec0d/">
-  <img src="https://img.shields.io/badge/¤ Debank-%23000000.svg?style=for-the-badge&logo=Debank&logoColor=orange" alt="Debank">
+  <img src="https://img.shields.io/badge/Debank-%23000000.svg?style=for-the-badge&logo=d3&logoColor=mediumyellow" alt="Debank">
 </a>
 <a href="https://0xbabyalien.vercel.app/">
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="Vercel">
@@ -85,7 +85,7 @@
 <h2>☕ Coffee</h2>
 </br>
 <a href="https://www.sayecho.xyz/tip/cmcxeqr7x00axjp04nww1i6hb">
-  <img src="https://img.shields.io/badge/​☕︎ SayEcho-%23000000.svg?style=for-the-badge&logo=coffe&logoColor=white" alt="SayEcho">
+  <img src="https://img.shields.io/badge/​SayEcho-%23000000.svg?style=for-the-badge&logo=buymeacoffee&logoColor=saddlebrown" alt="SayEcho">
 </a>
 <a href="https://base.app/pay-request?EIP681Link=ethereum%3A0x228ad3b30a809e7d410fdc9845aeca5c21bbec0d%408453%3Fvalue%3D203737e10">
   <img src="https://img.shields.io/badge/​BaseApp-%23000000.svg?style=for-the-badge&logo=Ethereum&logoColor=blue" alt="Coinbase">
@@ -94,20 +94,14 @@
   <img src="https://img.shields.io/badge/​Phantom-%23000000.svg?style=for-the-badge&logo=Solana&logoColor=violate" alt="Phantom">
 </a>
 <a href="https://link.trustwallet.com/send?coin=20000714&address=0x960fbe9b5c9e9bb514f0eb55ad63c4fd459bf07d&amount=0.003">
-    <img src="https://img.shields.io/badge/Trustwallet-%23000000.svg?style=for-the-badge&logo=Binance&logoColor=yellow" alt="Trustwallet">
+    <img src="https://img.shields.io/badge/Trustwallet-%23000000.svg?style=for-the-badge&logo=bnbchain&logoColor=yellow" alt="Trustwallet">
 </a>
 <a href="https://link3.to/0xbabyalien">
   <img src="https://img.shields.io/badge/❮ Link3-%23000000.svg?style=for-the-badge&logo=Link3&logoColor=white" alt="Link3">
 </a>
-<a href="https://sociabuzz.com/0xbabyalien/tribe">
-  <img src="https://img.shields.io/badge/​🅢 Socialbuzz-%23000000.svg?style=for-the-badge&logo=SocialBuzz&logoColor=white" alt="SocialBuzz">
-</a>
-<a href="https://trakteer.id/0x628">
-  <img src="https://img.shields.io/badge/❣ Trakteer-%23000000.svg?style=for-the-badge&logo=Trakteer&logoColor=white" alt="Trakteer">
-</a>
 
 <a href="https://www.paypal.me/0xbabyalien">
-    <img src="https://img.shields.io/badge/Paypal-%23000000.svg?style=for-the-badge&logo=Paypal&logoColor=navy" alt="Paypal">
+    <img src="https://img.shields.io/badge/Paypal-%23000000.svg?style=for-the-badge&logo=Paypal&logoColor=mediumblue" alt="Paypal">
 </a>
 </br></br>
 <img src="x/1500x500px.jpg">
