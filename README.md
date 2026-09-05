@@ -94,7 +94,7 @@
   <img src="https://img.shields.io/badge/❣ Trakteer-%23000000.svg?style=for-the-badge&logo=Trakteer&logoColor=white" alt="Trakteer">
 </a>
 <a href="https://www.paypal.me/0xbabyalien">
-    <img src="https://img.shields.io/badge/Paypal-%23000000.svg?style=for-the-badge&logo=Trakteer&logoColor=white" alt="Paypal">
+    <img src="https://img.shields.io/badge/Paypal-%23000000.svg?style=for-the-badge&logo=Paypal&logoColor=white" alt="Paypal">
 </a>
 </br>
 </br>
