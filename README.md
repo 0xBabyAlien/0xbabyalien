@@ -101,7 +101,7 @@
   <img src="https://img.shields.io/badge/❣ Trakteer-%23000000.svg?style=for-the-badge&logo=Trakteer&logoColor=white" alt="Trakteer">
 </a>
 <a href="https://link.trustwallet.com/send?coin=20000714&address=0x960fbe9b5c9e9bb514f0eb55ad63c4fd459bf07d&amount=0.003">
-    <img src="https://img.shields.io/badge/Trustwallet-%23000000.svg?style=for-the-badge&logo=BNB&logoColor=white" alt="Trustwallet">
+    <img src="https://img.shields.io/badge/Trustwallet-%23000000.svg?style=for-the-badge&logo=Binance&logoColor=white" alt="Trustwallet">
 </a>
 <a href="https://www.paypal.me/0xbabyalien">
     <img src="https://img.shields.io/badge/Paypal-%23000000.svg?style=for-the-badge&logo=Paypal&logoColor=white" alt="Paypal">
