@@ -104,7 +104,7 @@
     <img src="https://img.shields.io/badge/Paypal-%23000000.svg?style=for-the-badge&logo=Paypal&logoColor=mediumblue" alt="Paypal">
 </a>
 </br></br>
-<img src="x/1500x500px.jpg">
+<a><img src="x/1500x500px.jpg" alt="Banner"></a>
 </br>
 
 <h2>📊 Stats</h2> <br/>
