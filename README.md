@@ -16,6 +16,9 @@
 <a href= "https://www.instagram.com/0xbabyalien">
     <img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
+<a href= "https://bsky.app/profile/0xbabyalien.bsky.social">
+    <img src="https://img.shields.io/badge/Bsky-%23000000.svg?style=for-the-badge&logo=Bluesky&logoColor=blue">
+</a>
 <a href= "https://www.threads.net/@0xbabyalien">
     <img src="https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=Threads&logoColor=white">
 </a>
