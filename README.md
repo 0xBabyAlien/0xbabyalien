@@ -116,7 +116,7 @@
 
 
 <br/>
-<img src="x/1500x500.jpeg">
+<a href="#"><img src="x/1500x500.jpeg"></a>
 <hr class="cyberpunk glitched" />
 </br>
 
