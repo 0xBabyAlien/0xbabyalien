@@ -84,7 +84,7 @@
 <a href="https://www.sayecho.xyz/tip/cmcxeqr7x00axjp04nww1i6hb">
   <img src="https://img.shields.io/badge/​☕︎ SayEcho-%23000000.svg?style=for-the-badge&logo=coffe&logoColor=white" alt="SayEcho">
 </a>
-<a href="https://base.app/pay-request?EIP681Link=ethereum%3A0x833589fcd6edb6e08f4c7c32d4f71b54bda02913%408453%2Ftransfer%3Faddress%3D0xad8566ec919e8dbfb184af5d7b413e0d13fcdc93%26uint256%3D5e6">
+<a href="https://base.app/pay-request?EIP681Link=ethereum%3A0x228ad3b30a809e7d410fdc9845aeca5c21bbec0d%408453%3Fvalue%3D203737e10">
   <img src="https://img.shields.io/badge/​BaseApp-%23000000.svg?style=for-the-badge&logo=Coinbase&logoColor=white" alt="Coinbasw">
 </a>
 <a href="https://sociabuzz.com/0xbabyalien/tribe">
