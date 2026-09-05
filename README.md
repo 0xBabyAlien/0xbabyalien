@@ -88,7 +88,7 @@
   <img src="https://img.shields.io/badge/​BaseApp-%23000000.svg?style=for-the-badge&logo=Coinbase&logoColor=white" alt="Coinbasw">
 </a>
 <a href="https://phantom.com/user/sayusd">
-  <img src="https://img.shields.io/badge/​Phantom-%23000000.svg?style=for-the-badge&logo=Phantom&logoColor=white" alt="Phantom">
+  <img src="https://img.shields.io/badge/​Phantom-%23000000.svg?style=for-the-badge&logo=Solana&logoColor=white" alt="Phantom">
 </a>
 <a href="https://sociabuzz.com/0xbabyalien/tribe">
   <img src="https://img.shields.io/badge/​🅢 Socialbuzz-%23000000.svg?style=for-the-badge&logo=SocialBuzz&logoColor=white" alt="SocialBuzz">
