@@ -85,10 +85,13 @@
   <img src="https://img.shields.io/badge/​☕︎ SayEcho-%23000000.svg?style=for-the-badge&logo=coffe&logoColor=white" alt="SayEcho">
 </a>
 <a href="https://base.app/pay-request?EIP681Link=ethereum%3A0x228ad3b30a809e7d410fdc9845aeca5c21bbec0d%408453%3Fvalue%3D203737e10">
-  <img src="https://img.shields.io/badge/​BaseApp-%23000000.svg?style=for-the-badge&logo=Coinbase&logoColor=white" alt="Coinbasw">
+  <img src="https://img.shields.io/badge/​BaseApp-%23000000.svg?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Coinbase">
 </a>
 <a href="https://phantom.com/user/sayusd">
   <img src="https://img.shields.io/badge/​Phantom-%23000000.svg?style=for-the-badge&logo=Solana&logoColor=white" alt="Phantom">
+</a>
+<a href="https://link3.to/0xbabyalien">
+  <img src="https://img.shields.io/badge/❮ Link3-%23000000.svg?style=for-the-badge&logo=Link3&logoColor=white" alt="Link3">
 </a>
 <a href="https://sociabuzz.com/0xbabyalien/tribe">
   <img src="https://img.shields.io/badge/​🅢 Socialbuzz-%23000000.svg?style=for-the-badge&logo=SocialBuzz&logoColor=white" alt="SocialBuzz">
